@@ -1,0 +1,12 @@
+Medium Privacy - Name Obfuscated
+97.48% 0% obfuscation
+88.21% 20% obfuscation
+79.89% 40% obfuscation
+72.13% 60% obfuscation
+82.21% 80% obfuscation
+---------------------------------
+NAME + DATE/TIME
+97.48% 0% obfuscation
+73.82% 20% obfuscation  67.51% 1 layer less nodes
+52.39% 40% obfuscation	44.68% 1 layer less nodes 
+35.90% 60% obfuscation no change 2 layers 

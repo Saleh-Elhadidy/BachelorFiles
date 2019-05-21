@@ -1,0 +1,135 @@
+\begin{thebibliography}{10}
+
+\bibitem{albuquerque2011synthetic}
+Georgia Albuquerque, Thomas Lowe, and Marcus Magnor.
+\newblock Synthetic generation of high-dimensional datasets.
+\newblock {\em IEEE transactions on visualization and computer graphics},
+  17(12):2317--2324, 2011.
+
+\bibitem{axelsson2016evaluation}
+Oscar Axelsson and Fredrik Carlstr{\"o}m.
+\newblock Evaluation targeting react native in comparison to native mobile
+  development.
+\newblock 2016.
+
+\bibitem{bayardo2005data}
+Roberto~J Bayardo and Rakesh Agrawal.
+\newblock Data privacy through optimal k-anonymization.
+\newblock In {\em 21st International conference on data engineering (ICDE'05)},
+  pages 217--228. IEEE, 2005.
+
+\bibitem{chollet2015keras}
+Fran\c{c}ois Chollet et~al.
+\newblock Keras.
+\newblock \url{https://keras.io}, 2015.
+
+\bibitem{citeKey4}
+Chengwen Chu, Daniel~L Belav{\`y}, Gabriele Armbrecht, Martin Bansmann, Dieter
+  Felsenberg, and Guoyan Zheng.
+\newblock Fully automatic localization and segmentation of 3d vertebral bodies
+  from ct/mr images via a learning-based method.
+\newblock {\em PloS one}, 10(11):e0143327, 2015.
+
+\bibitem{Compromise}
+{C}ompromise.
+\newblock \url{https://github.com/spencermountain/compromise}, March 2019.
+
+\bibitem{cormode2009anonymized}
+Graham Cormode and Divesh Srivastava.
+\newblock Anonymized data: generation, models, usage.
+\newblock In {\em Proceedings of the 2009 ACM SIGMOD International Conference
+  on Management of data}, pages 1015--1018. ACM, 2009.
+
+\bibitem{citeKey7}
+Antonio Criminisi, Jamie Shotton, and Stefano Bucciarelli.
+\newblock Decision forests with long-range spatial context for organ
+  localization in ct volumes.
+\newblock In {\em Medical Image Computing and Computer-Assisted Intervention
+  (MICCAI)}, pages 69--80. Citeseer, 2009.
+
+\bibitem{dandekar2018comparative}
+Ashish Dandekar, Remmy~AM Zen, and St{\'e}phane Bressan.
+\newblock A comparative study of synthetic dataset generation techniques.
+\newblock In {\em International Conference on Database and Expert Systems
+  Applications}, pages 387--395. Springer, 2018.
+
+\bibitem{citeKey8}
+Adrien Depeursinge, Antonio Foncubierta-Rodriguez, Dimitri Van De~Ville, and
+  Henning M{\"u}ller.
+\newblock Three-dimensional solid texture analysis in biomedical imaging:
+  Review and opportunities.
+\newblock {\em Medical image analysis}, 18(1):176--196, 2014.
+
+\bibitem{fung2007anonymizing}
+Benjamin~CM Fung, Ke~Wang, and S~Yu Philip.
+\newblock Anonymizing classification data for privacy preservation.
+\newblock {\em IEEE transactions on knowledge and data engineering},
+  19(5):711--725, 2007.
+
+\bibitem{gilad2016cryptonets}
+Ran Gilad-Bachrach, Nathan Dowlin, Kim Laine, Kristin Lauter, Michael Naehrig,
+  and John Wernsing.
+\newblock Cryptonets: Applying neural networks to encrypted data with high
+  throughput and accuracy.
+\newblock In {\em International Conference on Machine Learning}, pages
+  201--210, 2016.
+
+\bibitem{citeKey2}
+Ben Glocker, Johannes Feulner, Antonio Criminisi, D~Haynor, and Ender
+  Konukoglu.
+\newblock Automatic localization and identification of vertebrae in arbitrary
+  field-of-view ct scans.
+\newblock {\em Medical Image Computing and Computer-Assisted
+  Intervention--MICCAI 2012}, pages 590--598, 2012.
+
+\bibitem{citeKey3}
+Ben Glocker, Darko Zikic, Ender Konukoglu, David~R Haynor, and Antonio
+  Criminisi.
+\newblock Vertebrae localization in pathological spine ct via dense
+  classification from sparse annotations.
+\newblock In {\em International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pages 262--270. Springer, 2013.
+
+\bibitem{hansson2016effects}
+Niclas Hansson and Tomas Vidhall.
+\newblock Effects on performance and usability for cross-platform application
+  development using react native, 2016.
+
+\bibitem{SciPy}
+Eric Jones, Travis Oliphant, Pearu Peterson, et~al.
+\newblock {SciPy}: Open source scientific tools for {Python}, 2001--.
+\newblock [Online; accessed <today>].
+
+\bibitem{citeKey5}
+Dwarikanath Mahapatra.
+\newblock Analyzing training information from random forests for improved image
+  segmentation.
+\newblock {\em IEEE Transactions on Image Processing}, 23(4):1504--1512, 2014.
+
+\bibitem{Intro}
+Iqbal Muhammad and Zhu Yan.
+\newblock Supervised machine learning approaches: A survey.
+\newblock {\em ICTACT Journal on Soft Computing}, 5(3), 2015.
+
+\bibitem{SEAL}
+{M}icrosoft {SEAL} (release 3.2).
+\newblock \url{https://github.com/Microsoft/SEAL}, February 2019.
+\newblock Microsoft Research, Redmond, WA.
+
+\bibitem{svozil1997introduction}
+Daniel Svozil, Vladimir Kvasnicka, and Jiri Pospichal.
+\newblock Introduction to multi-layer feed-forward neural networks.
+\newblock {\em Chemometrics and intelligent laboratory systems}, 39(1):43--62,
+  1997.
+
+\bibitem{terrovitis2008privacy}
+Manolis Terrovitis, Nikos Mamoulis, and Panos Kalnis.
+\newblock Privacy-preserving anonymization of set-valued data.
+\newblock {\em Proceedings of the VLDB Endowment}, 1(1):115--125, 2008.
+
+\bibitem{zell1994simulation}
+Andreas Zell.
+\newblock {\em Simulation neuronaler netze}, volume~1.
+\newblock Addison-Wesley Bonn, 1994.
+
+\end{thebibliography}

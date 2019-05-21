@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{albuquerque2011synthetic}
+{\sc Albuquerque, G., Lowe, T., and Magnor, M.}
+\newblock Synthetic generation of high-dimensional datasets.
+\newblock {\em IEEE transactions on visualization and computer graphics 17}, 12
+  (2011), 2317--2324.
+
+\bibitem{Compromise}
+{C}ompromise.
+\newblock \url{https://github.com/spencermountain/compromise}, Mar. 2019.
+
+\bibitem{dandekar2018comparative}
+{\sc Dandekar, A., Zen, R.~A., and Bressan, S.}
+\newblock A comparative study of synthetic dataset generation techniques.
+\newblock In {\em International Conference on Database and Expert Systems
+  Applications\/} (2018), Springer, pp.~387--395.
+
+\bibitem{gilad2016cryptonets}
+{\sc Gilad-Bachrach, R., Dowlin, N., Laine, K., Lauter, K., Naehrig, M., and
+  Wernsing, J.}
+\newblock Cryptonets: Applying neural networks to encrypted data with high
+  throughput and accuracy.
+\newblock In {\em International Conference on Machine Learning\/} (2016),
+  pp.~201--210.
+
+\bibitem{SciPy}
+{\sc Jones, E., Oliphant, T., Peterson, P., et~al.}
+\newblock {SciPy}: Open source scientific tools for {Python}, 2001--.
+\newblock [Online; accessed <today>].
+
+\bibitem{Intro}
+{\sc Muhammad, I., and Yan, Z.}
+\newblock Supervised machine learning approaches: A survey.
+\newblock {\em ICTACT Journal on Soft Computing 5}, 3 (2015).
+
+\bibitem{SEAL}
+{M}icrosoft {SEAL} (release 3.2).
+\newblock \url{https://github.com/Microsoft/SEAL}, Feb. 2019.
+\newblock Microsoft Research, Redmond, WA.
+
+\end{thebibliography}

@@ -1,0 +1,16 @@
+\chapter{Literature Review}
+\label{chap:Three}
+  
+Searching for related works in published research, we found out that our preferred approach of using homomorphic encryption was only used and published in 1 implementation\cite{gilad2016cryptonets},
+it was done by Microsoft's Cryptography team where they wanted to use a cloud service to predict whether a patient would be re-admitted into a hosptial
+without violating his privacy by learning all his health related data. Their encryption architecture was as follows, the hosptial encrypts the data using the public key and then the encrypted data is sent to the cloud service provider where the prediction is generated and sent back to the hospital which decrypts it using the private key.
+The cloud service provider however doesn't have access to the private key making it unable to learn the data it was preforming the prediction on nor the prediction itself. However for this paper they assumed that they already had a trained model and they skip directly to the prediction stage which will not be our case since
+we need to train our model from scratch. Unfortunately the implementation itself wasn't published anywhere.\par
+We managed to find and shortlist 3 compatible homomorphic encryption libraries and a brief description is given for each library along with it's advantages in the Background chapter \ref{chap:Two1}
+
+As for the Data Anonymization appraoch we only found two papers \cite{cormode2009anonymized,fung2007anonymizing} similar to the approach that we had in mind as we wanted to combine multiple annonymity approaches however, we found papers which used different techniques to achieve data anonymity \cite{bayardo2005data,terrovitis2008privacy} however we will only be going through related papers.\par
+In \cite{cormode2009anonymized}, they state different anonymity techniques and their use cases for each data type for example, if we have a dataset populated by employee's applying anonymization would probably combine using generalization which changes each entry in a column to an entry having a range instead of being exact, suppression is probably going to be used to sanitize the data from high
+risk data and finally perturbation we can add noise to the data by a certian value to hide the real value while keeping the relations between the values.\par
+In \cite{fung2007anonymizing}, Smilliary to \cite{cormode2009anonymized} Different anonymity techniques are laid out however in this paper they go a step further and try to generate an algorithm to preform data anonymization on any dataset regardless of it's type by laying out some rules that are traversed in order regarding the anonymization of columns in a dataset.
+For example, If a column contains categorical data that has a hierarchical tree then this column should be generalized by replacing each value by a value having a range, If a column contains categorical data but no hierarchical tree then it should be strictly removed. 
+
