@@ -21,7 +21,6 @@ import random
 import pickle
 from keras.callbacks import EarlyStopping
 from sklearn.preprocessing import StandardScaler
-#4606 rows
 import os
 try:
 	os.chdir(os.path.join(os.getcwd(), 'De-Anonymization'))
@@ -31,22 +30,6 @@ except:
 dataset = pd.read_csv('../Locations.csv')
 chosen = []
 i = 0
-with open('../Array1.pickle', 'rb') as f:
-    # The protocol version used is detected automatically, so we do not
-    # have to specify it.
-    arr1 = pickle.load(f)
-with open('../Array2.pickle', 'rb') as f:
-    # The protocol version used is detected automatically, so we do not
-    # have to specify it.
-    arr2 = pickle.load(f)
-with open('../Array3.pickle', 'rb') as f:
-    # The protocol version used is detected automatically, so we do not
-    # have to specify it.
-    arr3 = pickle.load(f)
-with open('../Array4.pickle', 'rb') as f:
-    # The protocol version used is detected automatically, so we do not
-    # have to specify it.
-    arr4 = pickle.load(f)
 def normalize(dataset):
     dataNorm=((dataset-dataset.min())/(dataset.max()-dataset.min()))*1
     dataNorm["Slot"]=dataset["Slot"]
@@ -84,7 +67,7 @@ X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=0.
 #print(y_test[2])
 count = 0
 indexes = []
-
+'''
 while j < 257*3:
 	index = random.randint(0,5000)
 	if (X_train.index == index).any():
@@ -105,22 +88,23 @@ while j < 2000:
         #X_test.set_value(j,'Student','HiddenStudent')
         break
     j+=1
+'''
 X_train = encode_and_bind(X_train,'Slot')
 X_train = encode_and_bind(X_train,'Student')
 #NewTestData = pd.read_csv('/NewCSV.csv')
 X_test = encode_and_bind(X_test,'Slot')
 X_test = encode_and_bind(X_test,'Student')
-X_testNew = X_test.loc[(X_test['Slot_Holiday']==1) |  (X_test['Slot_Sat 1st']==1)]
-for index,row in X_test.iterrows():
+#X_testNew = X_test.loc[(X_test['Slot_Holiday']==1) |  (X_test['Slot_Sat 1st']==1) |  (X_test['Slot_Sat 2nd']==1) |  (X_test['Slot_Sat 3rd']==1)]
+#for index,row in X_test.iterrows():
 	#print(index)
 	#print(row['Slot'])
-    if (row['Slot_Holiday'] != 1 and row['Slot_Sat 1st'] !=1 and  count not in indexes):
+#    if (row['Slot_Holiday'] != 1 and row['Slot_Sat 1st'] !=1 and row['Slot_Sat 2nd'] !=1 and row['Slot_Sat 3rd'] !=1 and   count not in indexes):
 		#print(index)
-        indexes.append(count)
+#        indexes.append(count)
 		#print(new_a)
 		#print(y_test)
-    count+=1
-y_test = numpy.delete(y_test,indexes,0)
+#    count+=1
+#y_test = numpy.delete(y_test,indexes,0)
 X_val = encode_and_bind(X_val,'Slot')
 X_val = encode_and_bind(X_val,'Student')
 with open("Output3.txt", "a") as text_file:
@@ -128,7 +112,7 @@ with open("Output3.txt", "a") as text_file:
     for count in range(1):
         model = Sequential()
         #model.add(Dense(64, input_dim=186, activation='relu',kernel_regularizer=l2(0.03)))
-        model.add(Dense(32,input_dim=184, activation='relu',kernel_regularizer=l2(0.04)))
+        model.add(Dense(32,input_dim=184, activation='relu',kernel_regularizer=l2(0.03)))
         model.add(Dense(classes, activation='softmax'))
         model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
         model.summary()
@@ -142,10 +126,10 @@ with open("Output3.txt", "a") as text_file:
         plt.xlabel('epoch')
         plt.legend(['train', 'validation'], loc='upper left')
         plt.show()
-        score, acc = model.evaluate(X_testNew, y_test)
+        score, acc = model.evaluate(X_test, y_test)
         print('Test score:', score)
         print('Test accuracy:', acc)
-        predictions = model.predict_classes(X_testNew)
+        predictions = model.predict_classes(X_test)
         correct = 0
         wrong = 0
         model.save("CalssifierBase22.h5")
@@ -158,10 +142,10 @@ with open("Output3.txt", "a") as text_file:
         if correct > wrong:
             print((correct/len(predictions))*100)
 
-        if count <=20:
-            text_file.write("40 Dual Privacy! , 32 Nodes!, Accuracy is! %f \n" % (acc))
-            text_file.flush()
-            os.fsync(text_file.fileno())
+        #if count <=20:
+        #    text_file.write("40 Dual Privacy! , 32 Nodes!, Accuracy is! %f \n" % (acc))
+        #    text_file.flush()
+        #    os.fsync(text_file.fileno())
         #else:
         #    text_file.write("60 Privacy! , 128 Nodes!, Accuracy is! %f \n" % (acc))
         #    text_file.flush()

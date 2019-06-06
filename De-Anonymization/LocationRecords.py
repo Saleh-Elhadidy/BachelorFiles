@@ -6,6 +6,7 @@ with open('Locations.pickle', 'rb') as f:
     # have to specify it.
     data = pickle.load(f)
 Locs = data
+# writing the location predication dataset to a CSV file
 with open('Locations.csv', mode='a') as locs:
         location_writer = csv.writer(locs,delimiter=',',quotechar=',',quoting=csv.QUOTE_MINIMAL,lineterminator='\r')
         location_writer.writerow(['Slot','Tutorial','Room','Student','fav_loc','friends','id'])

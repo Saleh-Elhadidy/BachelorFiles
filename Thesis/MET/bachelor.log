@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.29)  21 MAY 2019 10:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.29)  22 MAY 2019 10:39
 entering extended mode
-**c:/Personal/Bachelor/Thesis/MET/bachelor.tex
-(c:/Personal/Bachelor/Thesis/MET/bachelor.tex
+**c:/Personal/Bachelor/FinalBach/Thesis/MET/bachelor.tex
+(c:/Personal/Bachelor/FinalBach/Thesis/MET/bachelor.tex
 LaTeX2e <2018-12-01>
 ("C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
 Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
@@ -279,7 +279,7 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \ttoks@B=\toks23
 ) ("C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
 File: lstlang1.sty 2019/02/27 1.8b listings language file
-) (c:/Personal\Bachelor\Thesis\MET\bachelor.aux (c:/Personal\Bachelor\Thesis\MET\GUC_TitlePage.aux) (c:/Personal\Bachelor\Thesis\MET\acknowledgments.aux) (c:/Personal\Bachelor\Thesis\MET\abstract.aux) (c:/Personal\Bachelor\Thesis\MET\introduction.aux) (c:/Personal\Bachelor\Thesis\MET\background.aux) (c:/Personal\Bachelor\Thesis\MET\LitReview.aux) (c:/Personal\Bachelor\Thesis\MET\methodology.aux
+) (c:/Personal\Bachelor\FinalBach\Thesis\MET\bachelor.aux (c:/Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\abstract.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\introduction.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\background.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\LitReview.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\methodology.aux
 
 LaTeX Warning: Label `chap:Three' multiply defined.
 
@@ -292,11 +292,11 @@ LaTeX Warning: Label `fig:blur' multiply defined.
 
 LaTeX Warning: Label `fig:censor' multiply defined.
 
-) (c:/Personal\Bachelor\Thesis\MET\results.aux
+) (c:/Personal\Bachelor\FinalBach\Thesis\MET\results.aux
 
 LaTeX Warning: Label `tab:my-table' multiply defined.
 
-) (c:/Personal\Bachelor\Thesis\MET\conclusion.aux) (c:/Personal\Bachelor\Thesis\MET\appendix.aux))
+) (c:/Personal\Bachelor\FinalBach\Thesis\MET\conclusion.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\appendix.aux))
 \openout1 = `bachelor.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
@@ -360,7 +360,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 84.
 LaTeX Info: Redefining \pageref on input line 84.
 LaTeX Info: Redefining \nameref on input line 84.
- (c:/Personal\Bachelor\Thesis\MET\bachelor.out) (c:/Personal\Bachelor\Thesis\MET\bachelor.out)
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out) (c:/Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out)
 \@outlinefile=\write3
 \openout3 = `bachelor.out'.
 
@@ -373,7 +373,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 84.
 \openout2 = `GUC_TitlePage.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\GUC_TitlePage.tex
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.tex
 <gucLogo.jpg, id=139, 488.82625pt x 160.6pt>
 File: gucLogo.jpg Graphic file (type jpg)
 <use gucLogo.jpg>
@@ -382,7 +382,7 @@ Package pdftex.def Info: gucLogo.jpg  used on input line 34.
  [1
 
 
-{C:/Users/smsb3/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Personal/Bachelor/Thesis/MET/gucLogo.jpg>] [2
+{C:/Users/smsb3/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Personal/Bachelor/FinalBach/Thesis/MET/gucLogo.jpg>] [2
 
 ]
 File: gucLogo.jpg Graphic file (type jpg)
@@ -396,7 +396,7 @@ Package pdftex.def Info: gucLogo.jpg  used on input line 36.
 ])
 \openout2 = `acknowledgments.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\acknowledgments.tex) [5
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.tex) [5
 
 
 
@@ -404,18 +404,18 @@ Package pdftex.def Info: gucLogo.jpg  used on input line 36.
 ]
 \openout2 = `abstract.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\abstract.tex [6
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\abstract.tex [6
 
 
 
 ]) [7] [8
 
 
-] (c:/Personal\Bachelor\Thesis\MET\bachelor.toc [9])
+] (c:/Personal\Bachelor\FinalBach\Thesis\MET\bachelor.toc [9])
 \tf@toc=\write4
 \openout4 = `bachelor.toc'.
 
- [10] (c:/Personal\Bachelor\Thesis\MET\bachelor.lof)
+ [10] (c:/Personal\Bachelor\FinalBach\Thesis\MET\bachelor.lof)
 \tf@lof=\write5
 \openout5 = `bachelor.lof'.
 
@@ -424,7 +424,7 @@ Package pdftex.def Info: gucLogo.jpg  used on input line 36.
 ]
 \openout2 = `introduction.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\introduction.tex
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\introduction.tex
 Chapter 1.
 ) [1
 
@@ -433,7 +433,7 @@ Chapter 1.
 ]
 \openout2 = `background.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\background.tex [2
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\background.tex [2
 
 
 
@@ -445,7 +445,7 @@ File: Capture.png Graphic file (type png)
 <use Capture.png>
 Package pdftex.def Info: Capture.png  used on input line 22.
 (pdftex.def)             Requested size: 323.52037pt x 229.23083pt.
- [4 <c:/Personal/Bachelor/Thesis/MET/Capture.png>]
+ [4 <c:/Personal/Bachelor/FinalBach/Thesis/MET/Capture.png>]
 Overfull \hbox (4.83302pt too wide) in paragraph at lines 40--41
 \OT1/cmr/m/n/12 SEAL is a li-brary that is built by Mi-crosoft's Cryp-tog-ra-phy team at Mi-crosoft Research[[]].
  []
@@ -453,7 +453,7 @@ Overfull \hbox (4.83302pt too wide) in paragraph at lines 40--41
 [5]) [6]
 \openout2 = `LitReview.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\LitReview.tex
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\LitReview.tex
 Chapter 3.
 
 Overfull \hbox (21.85773pt too wide) in paragraph at lines 4--8
@@ -467,7 +467,7 @@ Overfull \hbox (21.85773pt too wide) in paragraph at lines 4--8
 ]) [8]
 \openout2 = `methodology.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\methodology.tex
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\methodology.tex
 Chapter 4.
 <Non.png, id=328, 856.19875pt x 673.51625pt>
 File: Non.png Graphic file (type png)
@@ -486,7 +486,7 @@ Underfull \vbox (badness 4699) has occurred while \output is active []
 
 
 
-] [10 <c:/Personal/Bachelor/Thesis/MET/Non.png> <c:/Personal/Bachelor/Thesis/MET/Encrypt.png>]
+] [10 <c:/Personal/Bachelor/FinalBach/Thesis/MET/Non.png> <c:/Personal/Bachelor/FinalBach/Thesis/MET/Encrypt.png>]
 <FlowUpdate.png, id=340, 613.29124pt x 532.99126pt>
 File: FlowUpdate.png Graphic file (type png)
 <use FlowUpdate.png>
@@ -497,7 +497,7 @@ File: Timeline.png Graphic file (type png)
 <use Timeline.png>
 Package pdftex.def Info: Timeline.png  used on input line 43.
 (pdftex.def)             Requested size: 134.7531pt x 201.25139pt.
- [11 <c:/Personal/Bachelor/Thesis/MET/FlowUpdate.png>]
+ [11 <c:/Personal/Bachelor/FinalBach/Thesis/MET/FlowUpdate.png>]
 <Login.png, id=347, 301.125pt x 607.51968pt>
 File: Login.png Graphic file (type png)
 <use Login.png>
@@ -538,7 +538,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--74
 
  []
 
-[12 <c:/Personal/Bachelor/Thesis/MET/Timeline.png>] [13 <c:/Personal/Bachelor/Thesis/MET/Login.png> <c:/Personal/Bachelor/Thesis/MET/Register.png>] [14]
+[12 <c:/Personal/Bachelor/FinalBach/Thesis/MET/Timeline.png>] [13 <c:/Personal/Bachelor/FinalBach/Thesis/MET/Login.png> <c:/Personal/Bachelor/FinalBach/Thesis/MET/Register.png>] [14]
 <Blur.png, id=366, 301.125pt x 607.51968pt>
 File: Blur.png Graphic file (type png)
 <use Blur.png>
@@ -549,7 +549,7 @@ File: Censor.png Graphic file (type png)
 <use Censor.png>
 Package pdftex.def Info: Censor.png  used on input line 109.
 (pdftex.def)             Requested size: 135.89174pt x 274.16927pt.
- [15 <c:/Personal/Bachelor/Thesis/MET/Blur.png> <c:/Personal/Bachelor/Thesis/MET/Censor.png>]
+ [15 <c:/Personal/Bachelor/FinalBach/Thesis/MET/Blur.png> <c:/Personal/Bachelor/FinalBach/Thesis/MET/Censor.png>]
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 133.
 
@@ -660,7 +660,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--147
 [16]) [17]
 \openout2 = `results.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\results.tex [18
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\results.tex [18
 
 
 
@@ -677,13 +677,13 @@ File: model3.png Graphic file (type png)
 <use model3.png>
 Package pdftex.def Info: model3.png  used on input line 35.
 (pdftex.def)             Requested size: 218.56396pt x 255.75246pt.
- [20 <c:/Personal/Bachelor/Thesis/MET/model.png>]
+ [20 <c:/Personal/Bachelor/FinalBach/Thesis/MET/model.png>]
 <Gender.png, id=415, 602.25pt x 372.39125pt>
 File: Gender.png Graphic file (type png)
 <use Gender.png>
 Package pdftex.def Info: Gender.png  used on input line 56.
 (pdftex.def)             Requested size: 331.23851pt x 204.81581pt.
- [21 <c:/Personal/Bachelor/Thesis/MET/model3.png>]
+ [21 <c:/Personal/Bachelor/FinalBach/Thesis/MET/model3.png>]
 <PrivacyChart.png, id=422, 602.25pt x 372.39125pt>
 File: PrivacyChart.png Graphic file (type png)
 <use PrivacyChart.png>
@@ -702,7 +702,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--70
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22 <c:/Personal/Bachelor/Thesis/MET/Gender.png>]
+ [22 <c:/Personal/Bachelor/FinalBach/Thesis/MET/Gender.png>]
 <Data-points.png, id=428, 602.25pt x 372.39125pt>
 File: Data-points.png Graphic file (type png)
 <use Data-points.png>
@@ -723,7 +723,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--103
 
  []
 
-[23 <c:/Personal/Bachelor/Thesis/MET/PrivacyChart.png> <c:/Personal/Bachelor/Thesis/MET/Data-points.png>]
+[23 <c:/Personal/Bachelor/FinalBach/Thesis/MET/PrivacyChart.png> <c:/Personal/Bachelor/FinalBach/Thesis/MET/Data-points.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -755,10 +755,10 @@ Overfull \hbox (58.79562pt too wide) in paragraph at lines 143--144
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26 <c:/Personal/Bachelor/Thesis/MET/FriendMod.png>]) [27 <c:/Personal/Bachelor/Thesis/MET/Verification.png>]
+ [26 <c:/Personal/Bachelor/FinalBach/Thesis/MET/FriendMod.png>]) [27 <c:/Personal/Bachelor/FinalBach/Thesis/MET/Verification.png>]
 \openout2 = `conclusion.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\conclusion.tex [28
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\conclusion.tex [28
 
 
 
@@ -767,7 +767,7 @@ Chapter 6.
 ) [29]
 \openout2 = `appendix.aux'.
 
- (c:/Personal\Bachelor\Thesis\MET\appendix.tex [30
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\appendix.tex [30
 
 
 
@@ -780,7 +780,7 @@ Overfull \hbox (6.45612pt too wide) in paragraph at lines 11--12
 
 [31
 
-]) (c:/Personal\Bachelor\Thesis\MET\bachelor.bbl [32
+]) (c:/Personal\Bachelor\FinalBach\Thesis\MET\bachelor.bbl [32
 
 
 
@@ -793,7 +793,7 @@ Underfull \hbox (badness 1412) in paragraph at lines 126--129
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
  [33]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
- (c:/Personal\Bachelor\Thesis\MET\bachelor.aux (c:/Personal\Bachelor\Thesis\MET\GUC_TitlePage.aux) (c:/Personal\Bachelor\Thesis\MET\acknowledgments.aux) (c:/Personal\Bachelor\Thesis\MET\abstract.aux) (c:/Personal\Bachelor\Thesis\MET\introduction.aux) (c:/Personal\Bachelor\Thesis\MET\background.aux) (c:/Personal\Bachelor\Thesis\MET\LitReview.aux) (c:/Personal\Bachelor\Thesis\MET\methodology.aux) (c:/Personal\Bachelor\Thesis\MET\results.aux) (c:/Personal\Bachelor\Thesis\MET\conclusion.aux) (c:/Personal\Bachelor\Thesis\MET\appendix.aux))
+ (c:/Personal\Bachelor\FinalBach\Thesis\MET\bachelor.aux (c:/Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\abstract.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\introduction.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\background.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\LitReview.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\methodology.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\results.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\conclusion.aux) (c:/Personal\Bachelor\FinalBach\Thesis\MET\appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
 Package rerunfilecheck Info: File `bachelor.out' has not changed.
@@ -810,14 +810,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
  10027 strings out of 492945
- 150738 string characters out of 3126252
+ 151538 string characters out of 3126252
  429889 words of memory out of 3000000
  13590 multiletter control sequences out of 15000+200000
  12944 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,15n,44p,786b,1596s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,15n,44p,796b,1596s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/smsb3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on c:/Personal\Bachelor\Thesis\MET\bachelor.pdf (44 pages, 1063472 bytes).
+Output written on c:/Personal\Bachelor\FinalBach\Thesis\MET\bachelor.pdf (44 pages, 1063472 bytes).
 PDF statistics:
  569 PDF objects out of 1000 (max. 8388607)
  130 named destinations out of 1000 (max. 500000)

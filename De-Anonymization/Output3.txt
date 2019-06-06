@@ -20,3 +20,12 @@
 40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.639344 
 40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.606557 
 40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.524590 
+40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.573770 
+40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.590164 
+40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.670213 
+40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.771654 
+40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.779528 
+40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.755906 
+40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.669291 
+40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.788274 
+40 Dual Privacy! , 32 Nodes!, Accuracy is! 0.944625 

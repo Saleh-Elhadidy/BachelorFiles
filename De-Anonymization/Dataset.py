@@ -1,3 +1,4 @@
+# Class representing a dataset row of the friendship dataset where each row has 2 students and whether they are friends or not
 class Dataset:
     def __init__(self, StudentA, StudentB):
         self.person1 = StudentA

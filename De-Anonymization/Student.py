@@ -1,6 +1,7 @@
-import random
+import random       
+# Class representing student object
 class Student:
-    intrests = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+    intrests = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14] # Array of intrests to use to randomise
     def __init__(self, name, t_number):
         self.name = name
         self.tut_number = t_number
@@ -15,7 +16,7 @@ class Student:
     def generate_intrests(self):
         self.my_intrests = []
         i = 0
-        while i < 5:
+        while i < 5: # choose 5  unique intrests
             chosen = self.intrests[random.randint(0,(len(self.intrests)-1))]
             if(len(self.my_intrests)==0):
                 self.my_intrests.append(chosen)

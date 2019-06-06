@@ -1,7 +1,7 @@
-PWD c:\Personal\Bachelor\Thesis\MET
+PWD c:\Personal\Bachelor\FinalBach\Thesis\MET
 INPUT C:\Users\smsb3\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.tex
-OUTPUT c:\Personal\Bachelor\Thesis\MET\bachelor.log
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.tex
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.log
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk12.clo
@@ -89,29 +89,29 @@ INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\GUC_TitlePage.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\GUC_TitlePage.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\acknowledgments.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\acknowledgments.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\abstract.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\abstract.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\introduction.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\introduction.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\background.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\background.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\LitReview.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\LitReview.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\methodology.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\methodology.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\results.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\results.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\conclusion.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\conclusion.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\appendix.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\appendix.aux
-OUTPUT c:\Personal\Bachelor\Thesis\MET\bachelor.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\abstract.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\abstract.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\introduction.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\introduction.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\background.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\background.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\LitReview.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\LitReview.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\methodology.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\methodology.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\results.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\results.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\conclusion.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\conclusion.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\appendix.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\appendix.aux
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.aux
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
@@ -126,14 +126,14 @@ INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\namere
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.out
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.out
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.out
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.out
-OUTPUT c:\Personal\Bachelor\Thesis\MET\bachelor.pdf
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.out
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.out
-OUTPUT c:\Personal\Bachelor\Thesis\MET\bachelor.out
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.pdf
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
@@ -148,94 +148,94 @@ INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt12.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt8.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt8.tfm
-OUTPUT c:\Personal\Bachelor\Thesis\MET\GUC_TitlePage.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\GUC_TitlePage.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\GUC_TitlePage.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\gucLogo.jpg
-INPUT c:\Personal\Bachelor\Thesis\MET\gucLogo.jpg
-INPUT c:\Personal\Bachelor\Thesis\MET\gucLogo.jpg
-INPUT c:\Personal\Bachelor\Thesis\MET\gucLogo.jpg
-INPUT c:\Personal\Bachelor\Thesis\MET\gucLogo.jpg
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\gucLogo.jpg
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\gucLogo.jpg
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\gucLogo.jpg
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\gucLogo.jpg
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\gucLogo.jpg
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\smsb3\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT c:\Personal\Bachelor\Thesis\MET\gucLogo.jpg
-INPUT c:\Personal\Bachelor\Thesis\MET\gucLogo.jpg
-OUTPUT c:\Personal\Bachelor\Thesis\MET\acknowledgments.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\acknowledgments.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\acknowledgments.tex
-OUTPUT c:\Personal\Bachelor\Thesis\MET\abstract.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\abstract.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\abstract.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.toc
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.toc
-OUTPUT c:\Personal\Bachelor\Thesis\MET\bachelor.toc
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.lof
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.lof
-OUTPUT c:\Personal\Bachelor\Thesis\MET\bachelor.lof
-OUTPUT c:\Personal\Bachelor\Thesis\MET\introduction.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\introduction.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\introduction.tex
-OUTPUT c:\Personal\Bachelor\Thesis\MET\background.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\background.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\background.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\gucLogo.jpg
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\gucLogo.jpg
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.tex
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\abstract.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\abstract.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\abstract.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.toc
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.toc
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.toc
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.lof
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.lof
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.lof
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\introduction.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\introduction.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\introduction.tex
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\background.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\background.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\background.tex
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsl12.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Personal\Bachelor\Thesis\MET\Capture.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Capture.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Capture.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Capture.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Capture.png
-OUTPUT c:\Personal\Bachelor\Thesis\MET\LitReview.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\LitReview.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\LitReview.tex
-OUTPUT c:\Personal\Bachelor\Thesis\MET\methodology.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\methodology.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\methodology.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\Non.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Non.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Non.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Non.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Non.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Encrypt.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Encrypt.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Encrypt.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Encrypt.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Encrypt.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FlowUpdate.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FlowUpdate.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FlowUpdate.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FlowUpdate.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FlowUpdate.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Timeline.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Timeline.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Timeline.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Timeline.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Timeline.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Login.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Login.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Login.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Login.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Login.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Register.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Register.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Register.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Register.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Register.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Blur.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Blur.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Blur.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Blur.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Blur.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Censor.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Censor.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Censor.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Censor.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Censor.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Capture.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Capture.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Capture.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Capture.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Capture.png
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\LitReview.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\LitReview.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\LitReview.tex
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\methodology.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\methodology.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\methodology.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Non.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Non.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Non.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Non.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Non.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Encrypt.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Encrypt.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Encrypt.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Encrypt.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Encrypt.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FlowUpdate.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FlowUpdate.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FlowUpdate.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FlowUpdate.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FlowUpdate.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Timeline.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Timeline.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Timeline.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Timeline.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Timeline.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Login.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Login.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Login.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Login.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Login.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Register.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Register.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Register.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Register.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Register.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Blur.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Blur.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Blur.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Blur.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Blur.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Censor.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Censor.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Censor.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Censor.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Censor.png
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
@@ -244,77 +244,77 @@ INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt1
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt8.tfm
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
-OUTPUT c:\Personal\Bachelor\Thesis\MET\results.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\results.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\results.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\model.png
-INPUT c:\Personal\Bachelor\Thesis\MET\model.png
-INPUT c:\Personal\Bachelor\Thesis\MET\model.png
-INPUT c:\Personal\Bachelor\Thesis\MET\model.png
-INPUT c:\Personal\Bachelor\Thesis\MET\model.png
-INPUT c:\Personal\Bachelor\Thesis\MET\model3.png
-INPUT c:\Personal\Bachelor\Thesis\MET\model3.png
-INPUT c:\Personal\Bachelor\Thesis\MET\model3.png
-INPUT c:\Personal\Bachelor\Thesis\MET\model3.png
-INPUT c:\Personal\Bachelor\Thesis\MET\model3.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Gender.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Gender.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Gender.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Gender.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Gender.png
-INPUT c:\Personal\Bachelor\Thesis\MET\PrivacyChart.png
-INPUT c:\Personal\Bachelor\Thesis\MET\PrivacyChart.png
-INPUT c:\Personal\Bachelor\Thesis\MET\PrivacyChart.png
-INPUT c:\Personal\Bachelor\Thesis\MET\PrivacyChart.png
-INPUT c:\Personal\Bachelor\Thesis\MET\PrivacyChart.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Data-points.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Data-points.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Data-points.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Data-points.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Data-points.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FriendMod.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FriendMod.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FriendMod.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FriendMod.png
-INPUT c:\Personal\Bachelor\Thesis\MET\FriendMod.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Verification.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Verification.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Verification.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Verification.png
-INPUT c:\Personal\Bachelor\Thesis\MET\Verification.png
-OUTPUT c:\Personal\Bachelor\Thesis\MET\conclusion.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\conclusion.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\conclusion.tex
-OUTPUT c:\Personal\Bachelor\Thesis\MET\appendix.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\appendix.tex
-INPUT c:\Personal\Bachelor\Thesis\MET\appendix.tex
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\results.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\results.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\results.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model3.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model3.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model3.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model3.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\model3.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Gender.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Gender.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Gender.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Gender.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Gender.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\PrivacyChart.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\PrivacyChart.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\PrivacyChart.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\PrivacyChart.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\PrivacyChart.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Data-points.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Data-points.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Data-points.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Data-points.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Data-points.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FriendMod.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FriendMod.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FriendMod.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FriendMod.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\FriendMod.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Verification.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Verification.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Verification.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Verification.png
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\Verification.png
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\conclusion.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\conclusion.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\conclusion.tex
+OUTPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\appendix.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\appendix.tex
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\appendix.tex
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmitt10.tfm
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.bbl
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.bbl
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.bbl
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.bbl
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\GUC_TitlePage.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\GUC_TitlePage.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\acknowledgments.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\acknowledgments.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\abstract.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\abstract.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\introduction.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\introduction.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\background.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\background.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\LitReview.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\LitReview.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\methodology.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\methodology.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\results.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\results.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\conclusion.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\conclusion.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\appendix.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\appendix.aux
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.out
-INPUT c:\Personal\Bachelor\Thesis\MET\bachelor.out
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\GUC_TitlePage.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\acknowledgments.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\abstract.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\abstract.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\introduction.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\introduction.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\background.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\background.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\LitReview.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\LitReview.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\methodology.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\methodology.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\results.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\results.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\conclusion.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\conclusion.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\appendix.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\appendix.aux
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out
+INPUT c:\Personal\Bachelor\FinalBach\Thesis\MET\bachelor.out
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\smsb3\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
