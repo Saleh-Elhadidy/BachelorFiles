@@ -9,7 +9,7 @@
   "dependencies": {
     "compromise": "^11.13.2",
     "firebase": "^5.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.6.3",
     "react-native": "0.58.5",
     "react-native-cards": "^1.1.4",
